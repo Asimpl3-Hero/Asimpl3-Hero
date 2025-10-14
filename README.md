@@ -30,7 +30,7 @@
 ![Postgres](https://img.shields.io/badge/PostgreSQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=black")
 ![Fire-base](https://img.shields.io/badge/Firebase-FFA500?style=for-the-badge&logo=firebase&logoColor=black")
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-007FFF?style=for-the-badge&logo=docker&logoColor=white")
+![Docker](https://img.shields.io/badge/Docker-007FFF?style=for-the-badge&logo=docker&logoColor=black")
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
