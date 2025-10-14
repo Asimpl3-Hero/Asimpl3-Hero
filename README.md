@@ -41,7 +41,7 @@
 
 ## 🕹️ Conéctate al servidor
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelWidth=100)](https://www.linkedin.com/in/justin-hernandez-it-develop/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-hernandez-it-develop/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelWidth=100)](mailto:estevenzx@gmail.com)  
 [![Web](https://img.shields.io/badge/NETLIFY-FFD700?style=for-the-badge&logo=netlify&logoColor=000000&labelWidth=100)](https://devarcadefolio.netlify.app/)
 
